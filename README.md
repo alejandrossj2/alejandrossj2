@@ -20,9 +20,6 @@ Soy un desarrollador de aplicaciones multiplataforma recién titulado, con 23 a�
 
 En proceso...
 
-### 📫 Contáctame
-
-- [X](https://x.com/alejandrossj2_): @alejandrossj2_
 
 ¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos interesantes o simplemente charlar sobre desarrollo de software y tecnología.
 
